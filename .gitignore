@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+__pycache__
+.bak
+bak
+*.swp
+tmp
+data
+*.pdf
+.DS_Store
+*.ckpt
+save_models
